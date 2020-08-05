@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/monstofriends/static/css/main.294fc434.chunk.css",
-    "main.js": "/monstofriends/static/js/main.5f29c239.chunk.js",
-    "main.js.map": "/monstofriends/static/js/main.5f29c239.chunk.js.map",
+    "main.css": "/monstofriends/static/css/main.354af25b.chunk.css",
+    "main.js": "/monstofriends/static/js/main.d1c34041.chunk.js",
+    "main.js.map": "/monstofriends/static/js/main.d1c34041.chunk.js.map",
     "runtime-main.js": "/monstofriends/static/js/runtime-main.ca987d4b.js",
     "runtime-main.js.map": "/monstofriends/static/js/runtime-main.ca987d4b.js.map",
     "static/css/2.3c03f26f.chunk.css": "/monstofriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.0b5b9267.chunk.js": "/monstofriends/static/js/2.0b5b9267.chunk.js",
     "static/js/2.0b5b9267.chunk.js.map": "/monstofriends/static/js/2.0b5b9267.chunk.js.map",
     "index.html": "/monstofriends/index.html",
-    "precache-manifest.68a87a88dea3ab2b48e88e84543cd4e0.js": "/monstofriends/precache-manifest.68a87a88dea3ab2b48e88e84543cd4e0.js",
+    "precache-manifest.4317d8c1e41e1d318367f7ab0bfacdad.js": "/monstofriends/precache-manifest.4317d8c1e41e1d318367f7ab0bfacdad.js",
     "service-worker.js": "/monstofriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/monstofriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.294fc434.chunk.css.map": "/monstofriends/static/css/main.294fc434.chunk.css.map",
+    "static/css/main.354af25b.chunk.css.map": "/monstofriends/static/css/main.354af25b.chunk.css.map",
     "static/js/2.0b5b9267.chunk.js.LICENSE.txt": "/monstofriends/static/js/2.0b5b9267.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca987d4b.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.0b5b9267.chunk.js",
-    "static/css/main.294fc434.chunk.css",
-    "static/js/main.5f29c239.chunk.js"
+    "static/css/main.354af25b.chunk.css",
+    "static/js/main.d1c34041.chunk.js"
   ]
 }
